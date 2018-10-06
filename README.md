@@ -1,7 +1,7 @@
 # Flutter_app-GithubTrendingRepositories
 A mobile app that keeps you updated about the Github Trending Repositories
 
-![screenshot_1538854800](https://user-images.githubusercontent.com/21126403/46575170-c5465680-c9cd-11e8-8e17-77aa6429de4a.png)
+![screen shot 2018-10-07 at 1 11 55 am](https://user-images.githubusercontent.com/21126403/46575183-135b5a00-c9ce-11e8-830c-299fc3dd35ae.png)
 
 ## Getting Started
 
